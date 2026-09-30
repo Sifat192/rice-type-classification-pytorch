@@ -68,3 +68,19 @@ Training
 Model Evaluation
      ↓
 Rice Type Prediction
+```
+---
+## Classification Workflow
+
+The diagram outlines feature preprocessing, train/test splitting,
+a custom PyTorch Dataset and DataLoader, neural network training,
+test evaluation, and rice type prediction.
+
+<p align="center">
+  <img src="rice-classification-workflow.png"
+       alt="Rice type classification workflow using PyTorch"
+       width="350">
+</p>
+
+[View full-size diagram](rice-classification-workflow.png)
+---
